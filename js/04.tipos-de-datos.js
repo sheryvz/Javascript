@@ -105,3 +105,19 @@ let perro = {
     ladra: true,
     muerde: false,
 }
+
+console.log( perro.nombre );
+console.log( perro.edad );
+console.log( perro.color );
+
+/* functions */
+
+
+function saludar(){
+
+    //codigo a ejecutar
+    console.log("hola mamá")
+};/* llamamos a la funcion 
+*/
+
+saludar();
