@@ -83,3 +83,5 @@ objeto.metodo()
 */
 
 persona.saludar();
+
+persona.saludar(); //esta es al forma d acceder alos métodos
